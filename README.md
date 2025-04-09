@@ -1,4 +1,4 @@
-# Financial-Data-Science-Projects
+# Financial Data Science Projects
 
 This collection of projects explores key applications of data science in the financial sector. These projects simulate real-world financial scenarios using public datasets, and were developed to strengthen both technical and analytical skills. 
 
