@@ -2,6 +2,8 @@
 
 This collection of projects explores key applications of data science in the financial sector. These projects simulate real-world financial scenarios using public datasets, and were developed to strengthen both technical and analytical skills. Each repository focuses on a core financial challenge:
 
+### Time Series
+
 ###[Time Series Forecasting](https://github.com/MiltonGreat/Time-Series-Forecasting)
 
 This repository shows projects that deal with time series analysis in the financial industry for forecasting, risk modeling, and anomaly detection. Here are some datasets where I apply time series techniques to simulate realistic financial scenarios and refine my data science skills.
